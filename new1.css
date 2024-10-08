@@ -1,0 +1,98 @@
+html{
+    background-image: url("background.jpg");
+}
+#div1{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#header{
+    text-align: center;
+}
+.button{
+    width: 40px;
+    height: 38px;
+    border-radius: 50%;
+    border: green 2px solid;
+    box-shadow: 5px 4px 1.5px gold;
+    font-size: 10px;
+}
+.button:hover{
+    box-shadow: 6px 4px 1.5px grey;
+    height: 60px;
+    width: 58px;
+    border-radius: 30%;
+    border: 4px solid brown;
+    font-size: 20px;
+}
+.button:visited{
+    box-shadow: 8px 6px 2.5px aqua;
+}
+#p3{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: fit-content;
+    max-height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: rgb(35, 32, 32);
+}
+#h1-1{
+    font-size: 100px;
+    text-shadow: 2px 1px 0.25px purple;
+}
+#p1{
+    font-size: 80px;
+    text-shadow: 4px 2px 0.5px aqua;
+}
+#p2{
+    font-size: 50px;
+}
+.number{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 300px;
+    height: 50px;
+    font-size: 50px;
+}
+#p4{
+    font-size: 40px;
+}
+#h1-1{
+    font-size: 50px;
+    text-shadow: 6px 4px 1.5px black;
+}
+#p5{
+    font-size: 30px;
+    text-shadow: 2px 3px 0.5px gray;
+}
+#div2{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+    border: 1px solid green;
+    background-color: rgb(163, 239, 50);
+}
+.input1{
+    width: 200px;
+    height: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 20px;
+}
+#submit1{
+    width: 100px;        
+    height: 20px;
+    align-content: end;
+    align-items: end;
+    text-align: end;
+    justify-content: end;
+    justify-items: end;
+}
