@@ -6,3 +6,5 @@ let sa = 2
 console.log(sa);
 console.log(55);
 console.log(51);
+console.log(55)
+console.log(213);
